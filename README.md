@@ -1,8 +1,8 @@
 
 # React + TypeScript + Vite
 
-<img width="678" height="590" alt="hot-potato-game-photo" src="https://github.com/user-attachments/assets/c4fafcb0-3e14-4af1-a201-4c9ee520cdca" />
-```
+<img width="678" height="590" alt="hot-potato-game-photo" src="https://github.com/user-attachments/assets/c4fafcb0-3e14-4af1-a201-4c9ee520cdca" /><br>
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -20,7 +20,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-```
+
 ```js
 export default defineConfig([
   globalIgnores(['dist']),
