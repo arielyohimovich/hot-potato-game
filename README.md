@@ -71,4 +71,8 @@ export default defineConfig([
   },
 ])
 ```
+
+## Credits & Attribution
+- Sound effects provided by freesound (https://freesound.org/).
+- 
 # hot-potato-game
